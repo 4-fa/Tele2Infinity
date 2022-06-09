@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tele2Infinity", "Tele2Infinity\Tele2Infinity.csproj", "{4DC5540C-B6A4-4221-8210-51E1E6E80C72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DC5540C-B6A4-4221-8210-51E1E6E80C72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC5540C-B6A4-4221-8210-51E1E6E80C72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC5540C-B6A4-4221-8210-51E1E6E80C72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC5540C-B6A4-4221-8210-51E1E6E80C72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD876F32-A24B-433D-B259-351A37D2E96F}
+	EndGlobalSection
+EndGlobal
